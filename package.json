@@ -2,7 +2,7 @@
   "-NOTE-1": "Bu altyapı Kıraç Armağan Önal tarafından yapılmıştır!",
   "-NOTE-2": "Eğer bu alt yapıyı botunuzda kullanacaksanız, botunuzun hakkında kısmında bu projenin github linkini koymak zorundasınız.",
   "-NOTE-3": "Herhangi bir şekilde lisans kurallarına uyulmadığı fark edilirse şahsınıza resmi işlem başlatılacaktır.",
-  "name": "armagan-underline",
+  "name": "underline-altyapi",
   "author": {
     "name": "Kıraç Armağan Önal",
     "email": "kiracarmaganonal@gmail.com",
