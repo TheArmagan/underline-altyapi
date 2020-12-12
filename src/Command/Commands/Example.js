@@ -5,8 +5,6 @@ const Underline = require("../../Underline");
 class Command extends CommandBase {
     constructor(underline) { super(underline) };
 
-    name = "TestCommand"
-
     aliases = ["test"]
 
     /**
